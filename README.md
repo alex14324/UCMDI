@@ -45,6 +45,3 @@ sudo /bin/loadkeys -c /bin/bash
 cp /tmp/loadkeys /bin/loadkeys
 ```
 
-## Resources 📚
-
-This PoC was inspired by research from Rhino Security Labs. For more detailed information about CVE-2024-1212 and its implications, please visit [their research page](https://rhinosecuritylabs.com/research/cve-2024-1212unauthenticated-command-injection-in-progress-kemp-loadmaster/?utm_content=286496380&utm_medium=social&utm_source=twitter&hss_channel=tw-1184539364).
